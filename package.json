@@ -23,7 +23,7 @@
 		"exec"
 	],
 	"dependencies": {
-		"execa": "^1.0.0",
+		"execa": "git+https://github.com/iceriver102/execa.git#v1.0.0",
 		"p-finally": "^1.0.0",
 		"pify": "^3.0.0",
 		"rimraf": "^2.5.4",
